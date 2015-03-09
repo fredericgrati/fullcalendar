@@ -38,10 +38,7 @@
     "moment-timezone": "~0.2.1",
     "bootstrap": "~3.2.0"
   },
-  "main": [
-    "dist/fullcalendar.js",
-    "dist/fullcalendar.css"
-  ],
+  "main": "dist/fullcalendar.js",
   "ignore": [
     "*",
     "**/.*",
